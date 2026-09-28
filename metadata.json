@@ -1,0 +1,6 @@
+{
+  "name": "TaskEase - Simple & Attractive Task Management",
+  "description": "Organize your day with TaskEase. Clean, modern, and beginner-friendly task manager featuring priority tracking, due dates, filters, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
